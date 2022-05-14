@@ -6,10 +6,9 @@
 
 # My Primary Contact Information
 
-📧 Email: Bishalpoonia@gmail.com
-🐦 Twitter: @0xPoonia
-🔗 LinkedIn: /bishalpoonia
-📞 Phone: +91 77420 59898
+[<img src="https://img.shields.io/badge/Email-Bishalpoonia@gmail.com-red?&style=for-the-badge&logo=gmail&logoColor=red">](https://to:bishalpoonia@gmail.com/)
+[<img src="https://img.shields.io/badge/Twitter-0xPoonia-blue?style=for-the-badge&logo=twitter">](https://twitter.com/0xPoonia)
+[<img src="https://img.shields.io/badge/LinkedIn-Bishal%20Poonia-blue?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bishalpoonia)
 
 ---
 
