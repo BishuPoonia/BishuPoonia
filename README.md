@@ -271,4 +271,4 @@ Other
 [<img src="https://img.shields.io/badge/MAL-%23eeeeee.svg?&style=for-the-badge&logo=myanimelist&logoColor=blue">](https://myanimelist.net/profile/BishuPoo)
 [<img src="https://img.shields.io/badge/WhatsApp-%23eeeeee.svg?&style=for-the-badge&logo=whatsapp&logoColor=green">](https://wa.me/917742059898)
 [<img src="https://img.shields.io/badge/Telegram-%23eeeeee.svg?&style=for-the-badge&logo=telegram&logoColor=blue">](https://t.me/beeshoe)
-[<img src="https://img.shields.io/badge/Gmail-%23eeeeee.svg?&style=for-the-badge&logo=gmail&logoColor=red">](https://to:bishalpoonia@gmail.com/)
+[<img src="https://img.shields.io/badge/Gmail-%23eeeeee.svg?&style=for-the-badge&logo=gmail&logoColor=red">](mailto:bishalpoonia@gmail.com)
