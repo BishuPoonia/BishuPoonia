@@ -6,7 +6,7 @@
 
 # My Primary Contact Information
 
-[<img src="https://img.shields.io/badge/Email-Bishalpoonia@gmail.com-red?&style=for-the-badge&logo=gmail&logoColor=red">](https://sendto:bishalpoonia@gmail.com/)
+[<img src="https://img.shields.io/badge/Email-Bishalpoonia@gmail.com-red?&style=for-the-badge&logo=gmail&logoColor=red">](https://mailto:bishalpoonia@gmail.com/)
 [<img src="https://img.shields.io/badge/Twitter-0xPoonia-blue?style=for-the-badge&logo=twitter">](https://twitter.com/0xPoonia)
 [<img src="https://img.shields.io/badge/LinkedIn-Bishal%20Poonia-blue?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bishalpoonia)
 
