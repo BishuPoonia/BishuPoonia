@@ -22,10 +22,10 @@
 # Education
 
 
-### Masters in Computer Applications
-July 2021
-**Lachoo Memorial College of Science and Technology, Jodhpur**
-Autonomous college affiliated with Jai Narain Vyas University, Jodhpur.
+### Masters in Computer Applications    
+July 2021   
+**Lachoo Memorial College of Science and Technology, Jodhpur**  
+Autonomous college affiliated with Jai Narain Vyas University, Jodhpur. 
 
 </br>
 
