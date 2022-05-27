@@ -24,20 +24,15 @@
 
 ### Masters in Computer Applications
 July 2021
-
 **Lachoo Memorial College of Science and Technology, Jodhpur**
-
 Autonomous college affiliated with Jai Narain Vyas University, Jodhpur.
 
 </br>
 
 
 ### Bachelors in Computer Applications
-
 July 2019
-
 **Mahesh Institute of Professional Studies, Barmer**
-
 Affiliated with Jai Narain Vyas University, Jodhpur.
 
 </br>
