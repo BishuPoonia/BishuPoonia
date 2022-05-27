@@ -30,10 +30,10 @@ Autonomous college affiliated with Jai Narain Vyas University, Jodhpur.
 </br>
 
 
-### Bachelors in Computer Applications
-July 2019
-**Mahesh Institute of Professional Studies, Barmer**
-Affiliated with Jai Narain Vyas University, Jodhpur.
+### Bachelors in Computer Applications  
+July 2019   
+**Mahesh Institute of Professional Studies, Barmer**    
+Affiliated with Jai Narain Vyas University, Jodhpur.    
 
 </br>
 
@@ -66,14 +66,11 @@ Hobbies
 
 </br>
 
-# Past Experience
-
-## SWPL, Jaipur
-
+# Past Experience   
+## SWPL, Jaipur 
 **About Company**: Sharthak Waretech Private Limited is an EdTech initiative, which was started by a group of passionate graduates to make a platform for beginners and professionals to build a self-sustainable and robust community that can learn and grow together.
 
-🎓 Roles I played (unpaid internship)
-
+🎓 Roles I played (unpaid internship)   
 <details>
 <summary>
 Student Partner
@@ -120,9 +117,8 @@ Business Analyst
 
 </br>
 
-## Celebal Technologies, Jaipur
-
-**About Company**: Celebal Technologies is a premier software services company in the field of Data Science, Big Data and Enterprise Cloud. The solutions are powered by Robotics, Artificial Intelligence and Machine Learning algorithms which offer improved business efficiency in the interconnected world.
+## Celebal Technologies, Jaipur 
+**About Company**: Celebal Technologies is a premier software services company in the field of Data Science, Big Data and Enterprise Cloud. The solutions are powered by Robotics, Artificial Intelligence and Machine Learning algorithms which offer improved business efficiency in the interconnected world.    
 
 🎓 My Job Role 
 
