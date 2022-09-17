@@ -1,7 +1,6 @@
 # Hi, I'm Bishal Poonia 👋🏻
 
-> I'm looking to work with an organisation that offers web 3 newcomers an opportunity to learn while contributing to the central objective. I desire to gain the knowledge of a working environment where teamwork and moderate guidance is prioritised.
-> 
+> Working with Huddle01 and Learning blockchain more everyday 
 </br>
 
 # My Primary Contact Information
@@ -14,7 +13,7 @@
 
 # About Me
 
-> I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities my current job position cannot provide.
+> I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
 > 
 
 </br>
