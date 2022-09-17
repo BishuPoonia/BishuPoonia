@@ -65,6 +65,26 @@ Hobbies
 
 </br>
 
+# Currently Working for
+## Huddle01
+**About Company**: One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.
+
+🎓 My Job Role 
+
+<details>
+<summary>
+Software Engineer in Testing
+</summary>
+    From August 2022 to the Present
+
+    - Creation of test plans, test cases, and bug reports on Google Spreadsheet and Github.
+    - Creating automation scripts for e2e testing using Playwright.
+    - Manually testing the product by exploratory, smoke, and regression methods.
+</details>
+
+
+</br>
+
 # Past Experience   
 ## SWPL, Jaipur 
 **About Company**: Sharthak Waretech Private Limited is an EdTech initiative, which was started by a group of passionate graduates to make a platform for beginners and professionals to build a self-sustainable and robust community that can learn and grow together.
@@ -125,7 +145,7 @@ Business Analyst
 <summary>
 Quality Assurance Engineer
 </summary>
-    From March 2021 to the Present (May 2022)
+    From March 2021 to July 2022
 
     - Creation of test plans, test cases, and bug reports on MS Excel and Azure DevOps.
     - Creating automation scripts for common tasks using Selenium and Cypress.
