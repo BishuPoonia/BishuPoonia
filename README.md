@@ -1,8 +1,5 @@
 # Hi, I'm Bishal Poonia 👋🏻
 
-> Working with Huddle01 and Learning blockchain more everyday 
-</br>
-
 # My Primary Contact Information
 
 [<img src="https://img.shields.io/badge/Email-Bishalpoonia@gmail.com-red?&style=for-the-badge&logo=gmail&logoColor=red">](mailto:bishalpoonia@gmail.com)
@@ -13,7 +10,7 @@
 
 # About Me
 
-> I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
+> Computer Application post-graduate, based of Barmer, Rajasthan. Experienced Quality Assurance engineer and trained Business Analyst. C2 Proficient English speaker with native Hindi tongue. Aspire to excel in the domain of future technologies and innovations.
 > 
 
 </br>
@@ -65,7 +62,8 @@ Hobbies
 
 </br>
 
-# Currently Working for
+# Work Experience  
+
 ## Huddle01
 **About Company**: One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.
 
@@ -75,17 +73,35 @@ Hobbies
 <summary>
 Software Engineer in Testing
 </summary>
-    From August 2022 to the Present
+    From August 2022 to October 2022
 
     - Creation of test plans, test cases, and bug reports on Google Spreadsheet and Github.
     - Creating automation scripts for e2e testing using Playwright.
     - Manually testing the product by exploratory, smoke, and regression methods.
 </details>
 
-
 </br>
 
-# Past Experience   
+## Celebal Technologies, Jaipur 
+**About Company**: Celebal Technologies is a premier software services company in the field of Data Science, Big Data and Enterprise Cloud. The solutions are powered by Robotics, Artificial Intelligence and Machine Learning algorithms which offer improved business efficiency in the interconnected world.    
+
+🎓 My Job Role 
+
+<details>
+<summary>
+Quality Assurance Engineer
+</summary>
+    From March 2021 to July 2022
+
+    - Creation of test plans, test cases, and bug reports on MS Excel and Azure DevOps.
+    - Creating automation scripts for common tasks using Selenium and Cypress.
+    - Executing test cases manually over secure VPNs and VDIs.
+    - Conducting exploratory, smoke, and regression testing with every new patch.
+    - Training junior QA engineers by providing L&D material and guiding them with automation scripts.
+</details>
+
+</br>
+ 
 ## SWPL, Jaipur 
 **About Company**: Sharthak Waretech Private Limited is an EdTech initiative, which was started by a group of passionate graduates to make a platform for beginners and professionals to build a self-sustainable and robust community that can learn and grow together.
 
@@ -136,25 +152,6 @@ Business Analyst
 
 </br>
 
-## Celebal Technologies, Jaipur 
-**About Company**: Celebal Technologies is a premier software services company in the field of Data Science, Big Data and Enterprise Cloud. The solutions are powered by Robotics, Artificial Intelligence and Machine Learning algorithms which offer improved business efficiency in the interconnected world.    
-
-🎓 My Job Role 
-
-<details>
-<summary>
-Quality Assurance Engineer
-</summary>
-    From March 2021 to July 2022
-
-    - Creation of test plans, test cases, and bug reports on MS Excel and Azure DevOps.
-    - Creating automation scripts for common tasks using Selenium and Cypress.
-    - Executing test cases manually over secure VPNs and VDIs.
-    - Conducting exploratory, smoke, and regression testing with every new patch.
-    - Training junior QA engineers by providing L&D material and guiding them with automation scripts.
-</details>
-
-</br>
 
 ## Miscellaneous
 <details>
